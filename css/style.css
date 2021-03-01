@@ -1,0 +1,19 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+/* Start for animation */
+.Aos{
+	display:flex;
+	flex-direction:column;
+	justify-content: center;
+	align-items:center;
+}
+.akib{
+	padding:40px;
+	background: rgb(10, 7, 218);
+	margin:50px;
+	color:white;
+}
+/* End for animation */
